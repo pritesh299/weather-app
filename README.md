@@ -36,7 +36,3 @@ To use this weather app, simply open the `index.html` file in a web browser.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
---- 
-
-This README provides an overview of the weather application, its features, usage instructions, technologies used, credits, and licensing information. Feel free to customize it further according to your project's needs.
